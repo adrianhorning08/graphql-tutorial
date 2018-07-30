@@ -12,6 +12,7 @@
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "bcryptjs": "^2.4.3",
+    "create-react-app": "^1.5.2",
     "graphql-cli": "^2.16.5",
     "graphql-yoga": "^1.14.12",
     "jsonwebtoken": "^8.3.0",
